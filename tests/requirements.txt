@@ -29,7 +29,7 @@ jsonpointer==2.4
 jsonschema==4.19.1
 junit-xml==1.9
 MarkupSafe==1.1.1
-mock==4.0.2
+mock==5.1.0
 moto==4.2.4
 networkx==2.4
 pyasn1==0.4.8

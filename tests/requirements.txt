@@ -2,7 +2,7 @@ attrs==19.3.0
 aws-sam-translator==1.76.0
 aws-xray-sdk==2.6.0
 boto==2.49.0
-boto3==1.28.55
+boto3==1.28.68
 botocore==1.12.253
 certifi==2023.7.22
 cffi==1.14.0
